@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- I like play 《Blue Archive》!
+- I'm from China!
+- 
 
 <!---
 XinYeSensei/XinYeSensei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
